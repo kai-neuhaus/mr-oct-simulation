@@ -7,7 +7,7 @@ Such a small scanning distance is not very useful, and modern OCT systems can ac
 Modern OCT systems are still costly, and the time-domain configuration has some potential to provide a low-cost solution for particular imaging applications.
 
 A general idea of multiple reference optical coherence tomography (MR-OCT) is to enhance the scanning range up to 2 millimetres with only one additional partial mirror.
-Because time-domain OCT is based on the Michelson interferometer, the scanning range can be increased by adding the partial mirror in the reference arm. The general idea is shown in the image below.
+Because OCT is based on the Michelson interferometer (other interferometric methods are also possible), the scanning range can be increased by simply adding the partial mirror in the reference arm. The general idea is shown in the image below.
 
 ![MR-OCT graphic abstract](graphic_abstract.png)
 
